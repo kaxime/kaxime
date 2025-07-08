@@ -16,19 +16,30 @@ Desarrolladora full stack en formación, enfocada en aprender haciendo y en crea
 
 - 🛍️ **E-commerce**  
   Tienda online con catálogo, carrito y perfiles de usuario. Desarrollada en Next.js, TypeScript y Tailwind CSS.  
-  [🔗 Ver repositorio](https://github.com/usuario/ecommerce)
+  [🔗 Ver repositorio](https://github.com/kaxime/-E-commerce)
 
 - 🎬 **Aplicación de Películas**  
   App para crear, listar y guardar películas con imagen y descripción. Hecha con Node.js, Express, Java, Bootstrap y MongoDB.  
-  [🔗 Ver repositorio](https://github.com/usuario/peliculas-app)
+  [🔗 Ver repositorio](https://github.com/kaxime/moviesApp)
 
 - 🧘‍♀️ **Aplicación de Yoga**  
   Plataforma para agendar rutinas de yoga con registro, turnos y cancelación de citas. Desarrollada con React, TypeScript, Express y SQL.  
-  [🔗 Ver repositorio](https://github.com/usuario/yoga-app)
+  [🔗 Ver repositorio](https://github.com/kaxime/AppYoga)
 
-- 🐶 **PawForPaw** *(en desarrollo)*  
-  Proyecto solidario para gestión de fichas de animales, adopciones y pagos.  
-  [🔗 Ver repositorio](https://github.com/usuario/pawforpaw)
+# 🐶 PawForPaw
+
+**Proyecto grupal realizado en equipo** como parte de una iniciativa solidaria. La aplicación está enfocada en apoyar a una **fundación de perritos**, donde los usuarios pueden:
+
+- Registrarse y crear una cuenta 🐾  
+- Ver perritos disponibles para adopción 🐕  
+- Donar a casos específicos 💖  
+- Acceder a un área administrativa 👩‍💼  
+
+El proyecto fue desarrollado en dos partes bien definidas:
+- **Frontend:** Interfaz construida con React y TypeScript.
+- **Backend:** API desarrollada con Node.js y PostgreSQL.
+
+🔗 [Ver repositorio](https://github.com/tomasbisio98/front-pawforpaw)
 
 ---
 
