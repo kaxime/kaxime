@@ -28,7 +28,7 @@ Desarrolladora full stack en formación, enfocada en aprender haciendo y en crea
 
 - 🐶 **PawForPaw**
   
-  Proyecto grupal realizado en equipo** como parte de una iniciativa solidaria. La aplicación está enfocada en apoyar a una **fundación de perritos**, donde los usuarios pueden:
+  Proyecto grupal realizado en equipo, como parte de una iniciativa solidaria. La aplicación está enfocada en apoyar a una **fundación de perritos**, donde los usuarios pueden:
   
 - Registrarse y crear una cuenta 🐾  
 - Ver perritos disponibles para adopción 🐕  
