@@ -41,7 +41,7 @@ Quiero seguir creciendo como desarrolladora, participar en proyectos que me desa
 ### 📫 Cómo contactarme
 
 - 📧 [karenximenarg11@gmail.com](mailto:karenximenarg11@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ximena-ram%C3%ADrez-995088371/)
+- 💼 [LinkedIn](www.linkedin.com/in/ximena-ramirez-4b9a52373)
 
 ---
 
