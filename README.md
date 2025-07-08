@@ -27,19 +27,14 @@ Desarrolladora full stack en formación, enfocada en aprender haciendo y en crea
   [🔗 Ver repositorio](https://github.com/kaxime/AppYoga)
 
 - 🐶 **PawForPaw**
-
-**Proyecto grupal realizado en equipo** como parte de una iniciativa solidaria. La aplicación está enfocada en apoyar a una **fundación de perritos**, donde los usuarios pueden:
-
+  Proyecto grupal realizado en equipo** como parte de una iniciativa solidaria. La aplicación está enfocada en apoyar a una **fundación de perritos**, donde los usuarios pueden:
+  
 - Registrarse y crear una cuenta 🐾  
 - Ver perritos disponibles para adopción 🐕  
 - Donar a casos específicos 💖  
 - Acceder a un área administrativa 👩‍💼  
 
-El proyecto fue desarrollado en dos partes bien definidas:
-- **Frontend:** Interfaz construida con React y TypeScript.
-- **Backend:** API desarrollada con Node.js y PostgreSQL.
-
-🔗 [Ver repositorio](https://github.com/tomasbisio98/front-pawforpaw)
+[🔗Ver repositorio](https://github.com/tomasbisio98/front-pawforpaw)
 
 ---
 
